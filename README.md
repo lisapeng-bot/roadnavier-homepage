@@ -1,3 +1,5 @@
+![Roadnavier Banner](./banner.jpg)
+
 # roadnavier-homepage
 My personal GitHub homepage as a solopreneur building Roadnavier
 # 🌍 Why I Built This GitHub Homepage
