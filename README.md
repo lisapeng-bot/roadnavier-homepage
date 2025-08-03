@@ -1,4 +1,51 @@
-![Roadnavier Banner](./banner.jpg)
+<!-- Banner 图 -->
+<p align="center">
+  <img src="./banner.jpg" alt="Roadnavier Banner" width="800"/>
+</p>
+
+<!-- 头像 + 简介 -->
+<p align="center">
+  <img src="./Lisa peng roadnavier.jpg" alt="Lisa Peng" width="120" style="border-radius: 50%"/>
+</p>
+
+<h2 align="center">Hi, I'm Lisa 👋</h2>
+<h4 align="center">Solopreneur building a global car tech brand</h4>
+
+<p align="center">
+  🚘 Founder of <a href="https://roadnavier.com" target="_blank"><strong>Roadnavier</strong></a><br/>
+  🧠 Building with AI tools | 🎯 Focused on U.S. market<br/>
+  📍 Based in Shenzhen, shipping worldwide
+</p>
+
+---
+
+## 🧭 About This Page
+
+This is my personal GitHub homepage as a solopreneur behind **Roadnavier** — a global DTC car tech brand focused on high-end Android head units and smart driving accessories.
+
+Follow my journey as I build with:
+- AI automation tools like ChatGPT, Zapier, and Notion
+- Shopify and Pinterest for product-led growth
+- A lean one-person company model 🚀
+
+---
+
+## 📬 Connect With Me
+
+- 🌐 Website: [roadnavier.com](https://roadnavier.com)
+- 📸 Instagram: [@lisapeng73](https://instagram.com/lisapeng73)
+- 📌 Pinterest: [@roadnavier](https://pinterest.com/roadnavier)
+- 📺 YouTube: [@Navitech_LisaPeng](https://www.youtube.com/@Navitech_LisaPeng)
+- 🟢 WhatsApp: [+86 138 2379 8730](https://wa.me/8613823798730)
+
+---
+
+## ✨ Motto
+
+> “Build small, sell smart, and automate everything you can.”
+>
+> — Lisa Peng
+
 
 # roadnavier-homepage
 My personal GitHub homepage as a solopreneur building Roadnavier
